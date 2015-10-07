@@ -29,7 +29,7 @@
   "devDependencies": {
     "chai": "^3.2.0",
     "jscs": "^2.1.0",
-    "jsdoc": "^3.3.2",
+    "jsdoc": "^3.2.2",
     "mocha": "^2.2.5",
     "nock": "^2.10.0"
   },
